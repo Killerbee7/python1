@@ -1,0 +1,10 @@
+# python1
+# Check whether number is positve, negative or 0
+
+score = float(input())
+if score > 0:
+    print("the number is positive")
+elif score < 0:
+    print("the number is negative")
+else:
+    print("the number is 0")

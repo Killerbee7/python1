@@ -1,0 +1,4 @@
+distance_km = float(input("distance(km):",))            #input distance
+distance_miles = distance_km*0.621371
+
+print("distace in miles is:",distance_miles)              #distance in miles

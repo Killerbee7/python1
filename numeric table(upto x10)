@@ -1,0 +1,7 @@
+number = float(input("Enter a number:"))
+
+count=1
+while count <= 10:
+    table = number*count
+    print(number,"x", count , "=" , table)
+    count = count+1                          
